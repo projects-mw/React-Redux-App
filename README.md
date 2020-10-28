@@ -47,3 +47,11 @@ Take the app as far as you can go! Styling, redux hooks, another API, an input t
 
 ## Submission Format
 * [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[dustin myers](https://youtu.be/EBxWcr2JCOU)
+[ryan hamblin](https://youtu.be/Z726ctSdggc)
+[dan frehner](https://youtu.be/YM4BLk2rDhY)
+[dan levy](https://youtu.be/bL3kIi91lsI)
+[jason maurer](https://youtu.be/_VRqf-kNeDo)
